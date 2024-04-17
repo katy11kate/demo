@@ -1,0 +1,52 @@
+C:\Users\yefim\source\repos\ООО Техносервис\ООО Техносервис\bin\Debug\net7.0-windows\ООО Техносервис.exe
+C:\Users\yefim\source\repos\ООО Техносервис\ООО Техносервис\bin\Debug\net7.0-windows\ООО Техносервис.deps.json
+C:\Users\yefim\source\repos\ООО Техносервис\ООО Техносервис\bin\Debug\net7.0-windows\ООО Техносервис.runtimeconfig.json
+C:\Users\yefim\source\repos\ООО Техносервис\ООО Техносервис\bin\Debug\net7.0-windows\ООО Техносервис.dll
+C:\Users\yefim\source\repos\ООО Техносервис\ООО Техносервис\bin\Debug\net7.0-windows\ООО Техносервис.pdb
+C:\Users\yefim\source\repos\ООО Техносервис\ООО Техносервис\bin\Debug\net7.0-windows\Castle.Core.dll
+C:\Users\yefim\source\repos\ООО Техносервис\ООО Техносервис\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\yefim\source\repos\ООО Техносервис\ООО Техносервис\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\yefim\source\repos\ООО Техносервис\ООО Техносервис\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\yefim\source\repos\ООО Техносервис\ООО Техносервис\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\yefim\source\repos\ООО Техносервис\ООО Техносервис\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\yefim\source\repos\ООО Техносервис\ООО Техносервис\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\yefim\source\repos\ООО Техносервис\ООО Техносервис\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\yefim\source\repos\ООО Техносервис\ООО Техносервис\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\yefim\source\repos\ООО Техносервис\ООО Техносервис\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\yefim\source\repos\ООО Техносервис\ООО Техносервис\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\yefim\source\repos\ООО Техносервис\ООО Техносервис\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\yefim\source\repos\ООО Техносервис\ООО Техносервис\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\yefim\source\repos\ООО Техносервис\ООО Техносервис\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\yefim\source\repos\ООО Техносервис\ООО Техносервис\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\yefim\source\repos\ООО Техносервис\ООО Техносервис\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\yefim\source\repos\ООО Техносервис\ООО Техносервис\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\yefim\source\repos\ООО Техносервис\ООО Техносервис\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\yefim\source\repos\ООО Техносервис\ООО Техносервис\bin\Debug\net7.0-windows\MySqlConnector.dll
+C:\Users\yefim\source\repos\ООО Техносервис\ООО Техносервис\bin\Debug\net7.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\yefim\source\repos\ООО Техносервис\ООО Техносервис\obj\Debug\net7.0-windows\ООО Техносервис.csproj.AssemblyReference.cache
+C:\Users\yefim\source\repos\ООО Техносервис\ООО Техносервис\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\yefim\source\repos\ООО Техносервис\ООО Техносервис\obj\Debug\net7.0-windows\ООО Техносервис_MarkupCompile.cache
+C:\Users\yefim\source\repos\ООО Техносервис\ООО Техносервис\obj\Debug\net7.0-windows\ООО Техносервис_MarkupCompile.lref
+C:\Users\yefim\source\repos\ООО Техносервис\ООО Техносервис\obj\Debug\net7.0-windows\ООО Техносервис.g.resources
+C:\Users\yefim\source\repos\ООО Техносервис\ООО Техносервис\obj\Debug\net7.0-windows\ООО Техносервис.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yefim\source\repos\ООО Техносервис\ООО Техносервис\obj\Debug\net7.0-windows\ООО Техносервис.AssemblyInfoInputs.cache
+C:\Users\yefim\source\repos\ООО Техносервис\ООО Техносервис\obj\Debug\net7.0-windows\ООО Техносервис.AssemblyInfo.cs
+C:\Users\yefim\source\repos\ООО Техносервис\ООО Техносервис\obj\Debug\net7.0-windows\ООО Техносервис.csproj.CoreCompileInputs.cache
+C:\Users\yefim\source\repos\ООО Техносервис\ООО Техносервис\obj\Debug\net7.0-windows\ООО Техносервис.csproj.CopyComplete
+C:\Users\yefim\source\repos\ООО Техносервис\ООО Техносервис\obj\Debug\net7.0-windows\ООО Техносервис.dll
+C:\Users\yefim\source\repos\ООО Техносервис\ООО Техносервис\obj\Debug\net7.0-windows\refint\ООО Техносервис.dll
+C:\Users\yefim\source\repos\ООО Техносервис\ООО Техносервис\obj\Debug\net7.0-windows\ООО Техносервис.pdb
+C:\Users\yefim\source\repos\ООО Техносервис\ООО Техносервис\obj\Debug\net7.0-windows\ООО Техносервис.genruntimeconfig.cache
+C:\Users\yefim\source\repos\ООО Техносервис\ООО Техносервис\obj\Debug\net7.0-windows\ref\ООО Техносервис.dll
+C:\Users\yefim\source\repos\ООО Техносервис\ООО Техносервис\obj\Debug\net7.0-windows\Windows\HomeWindow.g.cs
+C:\Users\yefim\source\repos\ООО Техносервис\ООО Техносервис\obj\Debug\net7.0-windows\Windows\EmployeeWindow.g.cs
+C:\Users\yefim\source\repos\ООО Техносервис\ООО Техносервис\obj\Debug\net7.0-windows\Windows\HomeWindow.baml
+C:\Users\yefim\source\repos\ООО Техносервис\ООО Техносервис\obj\Debug\net7.0-windows\Windows\EmployeeWindow.baml
+C:\Users\yefim\source\repos\ООО Техносервис\ООО Техносервис\obj\Debug\net7.0-windows\Windows\AddRequests.g.cs
+C:\Users\yefim\source\repos\ООО Техносервис\ООО Техносервис\obj\Debug\net7.0-windows\Windows\AddRequests.baml
+C:\Users\yefim\source\repos\ООО Техносервис\ООО Техносервис\obj\Debug\net7.0-windows\Windows\Authorization.g.cs
+C:\Users\yefim\source\repos\ООО Техносервис\ООО Техносервис\obj\Debug\net7.0-windows\Windows\Authorization.baml
+C:\Users\yefim\source\repos\ООО Техносервис\ООО Техносервис\obj\Debug\net7.0-windows\Windows\Card.g.cs
+C:\Users\yefim\source\repos\ООО Техносервис\ООО Техносервис\obj\Debug\net7.0-windows\Windows\CommentsAdd.g.cs
+C:\Users\yefim\source\repos\ООО Техносервис\ООО Техносервис\obj\Debug\net7.0-windows\Windows\Card.baml
+C:\Users\yefim\source\repos\ООО Техносервис\ООО Техносервис\obj\Debug\net7.0-windows\Windows\CommentsAdd.baml
